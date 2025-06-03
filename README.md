@@ -14,11 +14,11 @@ English Premier League Hub is a modern web app that lets users view the latest E
 
 ## 💻 Tech Stack
 
-- Languages: JavaScript, HTML, CSS  
-- Library: React  
-- API: Highlightly Football API (for standings and fixtures)  
-- Deployment: Netlify 
-- Version Control: Git & GitHub
+- JavaScript, HTML, CSS  
+- React  
+- Highlightly Football API (for standings and fixtures)  
+- Vercel 
+- Git & GitHub
 
 ---
 
