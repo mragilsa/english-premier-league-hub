@@ -1,10 +1,10 @@
-# ⚽️ English Premier League Hub
+# English Premier League Hub
 
 English Premier League Hub is a modern web app that lets users view the latest EPL standings and upcoming match schedules. It fetches real-time data using an external API and automatically displays times in the Asia/Jakarta timezone.
 
 ---
 
-## 🔑 Key Features
+## Key Features
 
 - Live English Premier League standings table
 - Upcoming fixtures with date and time in Asia/Jakarta timezone
@@ -12,7 +12,7 @@ English Premier League Hub is a modern web app that lets users view the latest E
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - JavaScript, HTML, CSS  
 - React  
@@ -22,7 +22,7 @@ English Premier League Hub is a modern web app that lets users view the latest E
 
 ---
 
-## ⚙️ Installation and Setup
+## Installation and Setup
 
 1. Clone the repository:
    ``` bash
@@ -44,7 +44,7 @@ English Premier League Hub is a modern web app that lets users view the latest E
 
 ---
 
-## 📘 How to Use
+## How to Use
 
 - Visit the website to view the latest EPL standings.
 - Navigate to the fixtures section to see upcoming matches.  
